@@ -113,7 +113,7 @@ go build ./...
 | **讨论交流** | 欢迎扫码加入交流群，获取使用支持与内测体验 |
 
 <div align="center">
-  <img src="wx.png" alt="交流群二维码" width="200" />
+  <img src="../wx.png" alt="交流群二维码" width="200" />
 </div>
 
 ---
